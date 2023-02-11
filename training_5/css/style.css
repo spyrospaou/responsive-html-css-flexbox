@@ -267,8 +267,8 @@ footer a {
         width: 80vw;
     }
 
-    h1 {
-        font-size: 28px !important;
+    section h1 {
+        font-size: 28px;
     }
 
     footer {
